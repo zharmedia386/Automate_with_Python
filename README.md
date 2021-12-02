@@ -16,7 +16,7 @@ pip install -r requirements.txt
 - Commenting on a particular post
 - Commenting in any hashtags post [soon]
 - Follow a paricular user [soon]
-- Generate detail post from any hashtags [soon]
+- Generate detail post(total like,comment, etc..) from any hashtags [soon]
 - Scape the post from any hashtags [soon]
 - Like the post from any hashtags [soon]
 - Direct Message Spamming Imposter Account [soon]
