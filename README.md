@@ -14,6 +14,7 @@ pip install -r requirements.txt
 
 - Signup for an Instagram account
 - Commenting on a particular post
+- Get detail information about a particular post (the number of Followers, Following, Posts)
 - Commenting in any hashtags post [soon]
 - Follow a paricular user [soon]
 - Generate detail post(total like,comment, etc..) from any hashtags [soon]
