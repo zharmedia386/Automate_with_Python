@@ -1,7 +1,8 @@
 1.
+Username : zharmedia.co
 Number of Posts : 19
 Followers : 145
-Following : 296
+Following : 297
 
 Bio :
 Muhammad Azhar Alauddin
@@ -14,9 +15,10 @@ zharmediablog.netlify.app
 
 
 2.
+Username : m.azhar.alauddin
 Number of Posts : 1
 Followers : 891
-Following : 1,342
+Following : 1,341
 
 Bio :
 Muhammad Azhar Alauddin
